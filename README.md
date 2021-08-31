@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Matheusy78
+
+  Welcome!!
+- Hi, I’m @Matheusy78
 - 👀 I'm studying information system 📚
 - 🎮 i like games 
-- 📫 How to reach me ...
+- 📫 How to reach me mfteus@gmail.com 
 
 <!---
 Matheusy78/Matheusy78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
